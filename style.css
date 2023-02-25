@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #DED1BD !important;
+}
+
+img {
+    margin-top: 5px;
+}
+
+.heading {
+    background-color: #B08401;
+    margin-bottom: 50px;   
+}
+
+h1.headingWrap{
+    color: #F6F6F2;
+    text-transform: uppercase;
+    line-height: normal;
+    padding-left: 10px;
+}
+
+.container1 {
+    margin: auto;
+    width: 500px;
+    border: 2px solid #D49E8D;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 5%;
+}
+
+form.container1 label {
+    color: #B08401;
+    font-size: 20px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+form.container1 input {
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+form.container1 button {
+    margin-top: 30px;
+    background-color: #683B2B;
+    color: #F6F6F2;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.container1 h2{
+    text-align: center;
+    border-bottom: 2px solid #683B2B ;
+    color: #683B2B;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.container1 ul{
+    padding: 0;
+    list-style-type: decimal;
+}
+
+.container1 h3{
+    font-weight: 600;
+    color: #B08401; 
+    line-height: normal;
+    font-size: 30px;
+}
+
+.container1 ul li {
+    color: #683B2B;   
+    font-weight: 600; 
+    font-size: 20px; 
+    margin-bottom: 16px; 
+    list-style-position: inside;  
+}
+
+.container1 ul li .delete {
+    margin-left: 10px;
+    color: #F6F6F2;
+    background-color: #683B2B;
+    border: 1px solid #683B2B;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
